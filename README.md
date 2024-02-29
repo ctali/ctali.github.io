@@ -1,2 +1,0 @@
-# ctali.github.io
- portfolio
